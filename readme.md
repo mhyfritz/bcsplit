@@ -1,1 +1,3 @@
 ancient barcode splitting code...
+
+The `klib` code is taken from here: https://github.com/attractivechaos/klib
